@@ -1,16 +1,16 @@
 ## Hi there 👋
 Computer science student 7/8 || Developer Web Full Stack
 
-[pt-br]
+<sub> [pt-br] </sub>
 
 Me chamo Bruno Grassi, eu atualmente sou QA e estudo para ser Engenheiro de Software Java no Back-end.
 
-[en]
+<sub> [en] </sub>
 
 My name is Bruno Grassi, I am currently a QA and studying to be a Java software engineer.
 
 Links
-LinkedIn: https://www.linkedin.com/in/brunoograssi/
+- LinkedIn: https://www.linkedin.com/in/brunoograssi/
 
 
 ## Languages and Tools:
