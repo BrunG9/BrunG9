@@ -1,5 +1,5 @@
 ## Hi there 👋
-Computer science student 7/8 || Developer Web Full Stack
+Computer science student 8/8 || Developer Web Full Stack
 
 <sub> [pt-br] </sub>
 
